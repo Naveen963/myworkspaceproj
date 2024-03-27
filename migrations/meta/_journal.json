@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711566500425,
+      "tag": "0000_robust_triton",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711567233202,
+      "tag": "0001_orange_thunderbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711568072966,
+      "tag": "0002_rich_doctor_doom",
+      "breakpoints": true
+    }
+  ]
+}
